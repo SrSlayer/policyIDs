@@ -4,11 +4,13 @@
 	"LeopardSLAYER#001",
     	"VolcanoSLAYER#002",
 	"CrocodileSLAYER#003"
+	"GoldenSLAYER#004"
     
 	],
     "policies": [
         "6659d0e824fa2324fe2989f6550aa96ca67d6647f0285f71dcaddbcf",
         "6e11bbbabe374d0a9771f949ce58bfa5a7d0090ab8235e9eb99e8d6c",
-	"d1c8cd9312a84c5ec4b83408509f886a4146fa858c8cb3f13ca1e30c"
+	"d1c8cd9312a84c5ec4b83408509f886a4146fa858c8cb3f13ca1e30c",
+	"58ab67661008593d916f293237fc7facc8dff269b38a9a750d58f9b9"
     ]
 }
